@@ -1,0 +1,79 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "es.jesussp.miapp"
+        }
+    }
+}

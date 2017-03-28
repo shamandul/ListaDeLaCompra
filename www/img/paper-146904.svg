@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="0" y="0" width="1" height="1">
+   <feTurbulence baseFrequency=".05" numOctaves="4" type="fractalNoise"/>
+   <feDiffuseLighting lighting-color="#f5f6ce" diffuseConstant="1.1" kernelUnitLength=".01" surfaceScale=".5">
+    <feDistantLight azimuth="75" elevation="65"/>
+   </feDiffuseLighting>
+  </filter>
+ </defs>
+ <g transform="translate(-85.787 -140.26)">
+  <path d="m85.787 140.26h300v300h-300z" fill-rule="evenodd" filter="url(#a)"/>
+ </g>
+</svg>
